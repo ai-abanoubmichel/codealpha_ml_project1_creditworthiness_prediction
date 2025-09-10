@@ -101,7 +101,7 @@ This project highlights the role of ML in **financial risk assessment and decisi
 ![Correlation Heatmap](Images/Correlation_Heatmap.png)  
 
 ### 3. Creditworthiness Distribution  
-![Target Distribution](Images/Target_Distribution.png)  
+![Target Distribution](Images/Creditworthiness_Distribution.png)  
 
 ---
 
